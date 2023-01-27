@@ -110,7 +110,7 @@ if(!process.env.TESLA_API_TOKEN){
 }
 
 if(!process.env.TESLA_API_VIN){
-    options.token = {
+    options.vin = {
         type: 'text',
         describe: "Please provide your VIN",
     }

@@ -20,7 +20,19 @@ To tun the script just call
 ```
 tesla-invoice-cli download
 ```
+## Obtaining a Token
 
-Have fun :)
+There are multiple apps available to securely generate access tokens yourself, for example:
+
+- [Auth app for Tesla (iOS, macOS)](https://apps.apple.com/us/app/auth-app-for-tesla/id1552058613)
+- [Tesla Tokens (Android)](https://play.google.com/store/apps/details?id=net.leveugle.teslatokens)
+- [Tesla Auth (macOS, Linux, Windows)](https://github.com/adriankumpf/tesla_auth)
+
+
+Tested on MacOS. Should also run seemlessly on Linux.
+Windows is untested.
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8I7IBK)
+
+Have fun :)
